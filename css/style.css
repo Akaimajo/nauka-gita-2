@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: flex;
+    text-align: center;
+    background-color: skyblue;
+    color: red;
+}
+
+p {}
